@@ -38,22 +38,22 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
   }
   .footer {
                        
-			background-color: grey;
-			color: #fff;
-			padding: 10px;
-			text-align: center;
-			font-size: 14px;
-			position: relative;
-			left: 0;
-			bottom: 0;
-			width: 100%;
-                        
-		}
+	background-color: grey;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	font-size: 14px;
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	
+}
 
-		.footer a {
-			color: #fff;
-			text-decoration: none;
-		}
+.footer a {
+	color: #fff;
+	text-decoration: none;
+}
   </style>
   <body>
 
